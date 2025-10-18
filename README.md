@@ -7,7 +7,7 @@ Collaborators: Alessio Desideri
 
 Starting from over 27,000 dermoscopic images of moles and skin lesions sourced from the ISIC archive, the aim of this study is to compare the performance of two models — a Convolutional Neural Network (CNN) and a Support Vector Machine (SVM) — on a binary classification task (malignant cancer: yes/no).
 
-Visit the ISIC Archive: [https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D)
+Visit the archive: [https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D)
 
 
 ### Repository Contents
